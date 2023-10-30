@@ -1,7 +1,5 @@
 %%Matlab code for calculating the necessary joint angles for a single leg Boston Dynamic's Spot Robot
 function [th] = inversekinematics(x,y,z)
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
 l1 = 0.091285;
 l2 = 0.338901;
 l3 = 0.361644;
